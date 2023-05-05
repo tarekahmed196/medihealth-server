@@ -1,0 +1,27 @@
+[
+    {
+      "id": "01",
+      "name": "Cardiologist"
+    },
+    {
+      "id": "02",
+      "name": "Dermatologist"
+    },
+    {
+      "id": "03",
+      "name": "Surgery"
+    },
+    {
+      "id": "04",
+      "name": "Ophthalmologist"
+    },
+    {
+      "id": "05",
+      "name": "Neurologist"
+    },
+    {
+      "id": "06",
+      "name": "Surgeon"
+    }
+    
+  ]

@@ -1,0 +1,118 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+    "author": {
+      "name": "Railey Roushow",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://i.ibb.co/jgdfzyM/team4-500x500.jpg",
+    "details": "Cardiology is the branch of medicine that deals with the study, diagnosis, and treatment of heart diseases and disorders. Cardiologists are medical professionals who specialize in this field. Some common heart conditions that cardiologists may treat include coronary artery disease, heart failure, arrhythmias, and valvular heart disease. Cardiology is a constantly evolving field, with new research and technologies being developed to improve patient outcomes and quality of life."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+    "author": {
+      "name": "Rakibul Islam",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://i.ibb.co/vHcgGgj/team2-500x500.jpg",
+    "details": "Neurology is the branch of medicine that focuses on the diagnosis and treatment of disorders of the nervous system, including the brain, spinal cord, and nerves. Neurologists are medical professionals who specialize in this field. Some common neurological conditions that neurologists may treat include Alzheimer's disease, Parkinson's disease, multiple sclerosis, epilepsy, and migraines. Advances in neurology research and technology continue to expand our understanding of the nervous system and provide new treatments for neurological disorders."
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "total_view": 400,
+    "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
+    "author": {
+      "name": "Jennifer Wood",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "https://i.ibb.co/4VcHf8Q/team3-500x500.jpg",
+    "details": "A surgeon is a medical doctor who specializes in performing surgical procedures to treat various medical conditions or injuries. They are highly skilled in using surgical instruments and techniques to repair, remove, or transplant tissues and organs. Surgeons may work in various medical fields, including general surgery, orthopedics, neurosurgery, cardiovascular surgery, and more."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "total_view": 400,
+    "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
+    "author": {
+      "name": "Hasibul Hasan",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "https://i.ibb.co/K0wqxJs/team1-500x500.jpg",
+    "details": "Dermatologists are medical doctors who specialize in the diagnosis, treatment, and prevention of skin, hair, and nail disorders. They are trained to recognize and manage a wide range of conditions, from common skin conditions such as acne and eczema to more serious conditions such as skin cancer. In addition to their medical expertise, dermatologists are skilled in performing various procedures such as biopsies, laser treatments, and surgical removal of skin lesions. They may also provide cosmetic services, such as Botox injections and chemical peels, to improve the appearance of skin. Dermatology is a constantly evolving field, with new research and technologies being developed to improve patient outcomes and quality of life."
+  },
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
+    "author": {
+      "name": "Rod Tucker",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "image_url": "https://i.ibb.co/4VcHf8Q/team3-500x500.jpg",
+    "details": "Nephrologists are medical doctors who specialize in the diagnosis, treatment, and management of kidney diseases and disorders."
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
+    "author": {
+      "name": "Fred",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "image_url": "https://i.ibb.co/jgdfzyM/team4-500x500.jpg",
+    "details": "Hematologists are medical doctors who specialize in the study, diagnosis, and treatment of disorders related to the blood, bone marrow, and lymphatic system. They may diagnose and treat various conditions such as anemia, leukemia, lymphoma, and hemophilia, among others."
+  }
+]
